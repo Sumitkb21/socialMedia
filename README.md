@@ -1,4 +1,4 @@
-# Social wall, PremjiInvest
+# Social Media wall
 ![image](https://github.com/komals21/social-wall/assets/106916514/c165a505-1403-4290-ab97-ce072190e574)
 ### Profile, Notification, Logout
 ![image](https://github.com/komals21/social-wall/assets/106916514/e9832c5b-96a1-4a63-809f-5db1dc67fc65)
